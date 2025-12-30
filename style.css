@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+*{
+    background-color: dimgrey;
+    font-family: "poppins", cursive;
+ }
+.line{ 
+    opacity: 100%;
+}
+.name{ 
+    color: white;
+    font-size: 50px;
+}
+.paragraph{ 
+    font-size: 20px;
+    color: blue;
+}
